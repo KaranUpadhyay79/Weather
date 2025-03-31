@@ -1,0 +1,8 @@
+.SearchBox {
+    text-align : center ;
+    margin-bottom: 25px;
+} 
+
+.search-input {
+    background-color: white !important; /* Background color of the text field */
+  }
